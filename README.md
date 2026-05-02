@@ -29,7 +29,7 @@ The model follows a streamlined yet powerful architecture[cite: 1]:
 ##  Installation & Reproduction
 1.  **Clone the Repo**:
     ```bash
-    git clone [https://github.com/YourUsername/PyTorch-News-Classifier.git](https://github.com/YourUsername/PyTorch-News-Classifier.git)
+    git clone [https://github.com/ibrahim-mosaad/PyTorch-News-Classifier.git](https://github.com/ibrahim-mosaad/PyTorch-News-Classifier.git)
     ```
 2.  **Setup Environment**:
     ```bash
